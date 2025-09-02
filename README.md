@@ -1,5 +1,5 @@
 # 🚀 Quantum_Learning_Path_with QuCode
-Tracking my journey through Quantum Computing with QuCode. This repo documents my progress, notes, code snippets, and resources as I explore the fascinating world of quantum algorithms, circuits, and applications.
+Tracking my journey through Quantum Computing with <a href="https://qucode.in/" target="_blank">QuCode</a> . This repo documents my progress, notes, code snippets, and resources as I explore the fascinating world of quantum algorithms, circuits, and applications.
 
 ## Goals
 - Understand the fundamentals of quantum mechanics for computation.
