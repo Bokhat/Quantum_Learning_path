@@ -1,12 +1,12 @@
 # 🚀 Quantum_Learning_Path_with QuCode
 Tracking my journey through Quantum Computing with QuCode. This repo documents my progress, notes, code snippets, and resources as I explore the fascinating world of quantum algorithms, circuits, and applications.
 
-
-
 ## Goals
-- Strengthen problem-solving skills
-- Prepare for technical interviews
-- Learn advanced algorithms
+- Understand the fundamentals of quantum mechanics for computation.
+- Learn how to use **Qiskit** for building and simulating quantum circuits.
+- Explore quantum algorithms such as Grover’s and Shor’s.
+- Apply quantum computing concepts to problem-solving and projects.
+- Build a public portfolio of my learning progress.
 
 ## Timeline
 
@@ -14,11 +14,11 @@ Tracking my journey through Quantum Computing with QuCode. This repo documents m
 **Day 2**: Probability Theory & Statistics
 
 ## Resources
-- [https://qucode.in/quresource.html]
-- Day1:
+**- [https://qucode.in/quresource.html]**
+- **Day1:**
 Gilbert Strang’s Linear Algebra (MIT)
 Eigenvalues and Eigenvectors (MIT)
-- Day2:
+-**Day2:**
 Probability Basics (StatQuest)
 Bayes' Theorem (StatQuest)
 
