@@ -25,3 +25,6 @@ Bayes' Theorem (StatQuest)
 ## Progress Log
 - **Sep 01, 2025** → Vectors, Matrices, Eigenvalues, Eigenvectors
 - **Sep 02, 2025** → Basic probability, Distributions, Bayes' Theorem
+- **Sep 03, 2025** → Quantum Mechanics Introduction, Superposition Explained, Quantum vs. Classical, Wave-Particle Duality 
+- **Sep 04, 2025** → Classical Computing Basics, Boolean Algebra 
+- **Sep 05, 2025** → Tensor Products, Inner and Outer Products, Unitary Matrices 
