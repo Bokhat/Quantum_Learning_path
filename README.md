@@ -8,11 +8,6 @@ Tracking my journey through Quantum Computing with <a href="https://qucode.in/" 
 - Apply quantum computing concepts to problem-solving and projects.
 - Build a public portfolio of my learning progress.
 
-## Timeline
-
-**Day 1**: Complex Numbers & Linear Algebra Basics
-**Day 2**: Probability Theory & Statistics
-
 ## Resources
 **- [https://qucode.in/quresource.html]**
 - **Day1:**
@@ -27,4 +22,8 @@ Bayes' Theorem (StatQuest)
 - **Sep 02, 2025** → Basic probability, Distributions, Bayes' Theorem
 - **Sep 03, 2025** → Quantum Mechanics Introduction, Superposition Explained, Quantum vs. Classical, Wave-Particle Duality 
 - **Sep 04, 2025** → Classical Computing Basics, Boolean Algebra 
-- **Sep 05, 2025** → Tensor Products, Inner and Outer Products, Unitary Matrices 
+- **Sep 05, 2025** → Tensor Products, Inner and Outer Products, Unitary Matrices
+- **Sep 06, 2025** → Dirac Notation & Hilbert Spaces, Bra-Ket notation, Operators, Basis states
+- **Sep 07, 2025** → Quantum Mechanics Basics, Schrödinger equation, Measurement, Postulates of QM
+
+
